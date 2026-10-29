@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1793206110098",
+    "name": "Smart Watch",
+    "link": "https://www.boat-lifestyle.com/?utm_source",
+    "description": "Stylish smartwatch for daily activity tracking and notifications.",
+    "price": 1199,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600"
+  },
+  {
+    "id": "1793206233688",
+    "name": "Running Shoes",
+    "link": "https://www.amazon.in/s?k=running+shoes&utm_source",
+    "description": "Lightweight sports shoes for walking, running and casual wear.",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600"
+  },
+  {
+    "id": "1793206289084",
+    "name": "College Backpack",
+    "link": "https://www.amazon.in/s?k=college+backpack&utm_source",
+    "description": "Spacious backpack for college books, laptop and everyday essentials.",
+    "price": 1999,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600"
+  },
+  {
+    "id": "1793206342354",
+    "name": "Steel Water Bottle",
+    "link": "https://www.amazon.in/s?k=steel+water+bottle&utm_source",
+    "description": "Reusable water bottle for college, travel and everyday hydration.",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600"
+  },
+  {
+    "id": "1793208095198",
+    "name": "Bluetooth Speaker",
+    "link": "https://www.portronics.com/products/sounddrum-1?utm_source",
+    "description": "Compact portable speaker for music at home or outdoors",
+    "price": 1199,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600"
+  }
+]
